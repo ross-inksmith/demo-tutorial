@@ -1,0 +1,17 @@
+{
+  "name": "pxt-demo-tutorial",
+  "version": "0.0.0",
+  "description": "this is a test",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "README.md",
+    "docs/"
+  ],
+  "public": true,
+  "preferredEditor": "tsprj",
+  "supportedTargets": [
+    "microbit"
+  ]
+}
