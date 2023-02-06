@@ -13,9 +13,6 @@ Try adding ``||basic.showIcon(IconNames.Heart)||`` or something.
 ## Add a different block
 Add a CAK block
 
-```blocks
-cakLandMotor.drive(100,100)
-```
 
 ## Look at this picture
 ![From Everything Everywhere All At Once](/static/norules.gif)
