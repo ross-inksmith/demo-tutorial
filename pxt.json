@@ -1,7 +1,8 @@
 {
-    "name": "my-project",
+    "name": "demo-tutorial",
     "version": "0.0.0",
     "files": [
+        "README.md",
         "tutorial-1.md"
     ],
     "supportedTargets": [
